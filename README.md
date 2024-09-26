@@ -16,4 +16,4 @@ https://narendranathpanda.github.io/narendranathpanda.portfolio.github.io/
 - [@NarendraNathPanda](https://github.com/NarendraNathPanda)
 
 ## License
-[MIT License] (License:https://github.com/NarendraNathPanda/narendranathpanda.portfolio.github.io/blob/main/License)
+[MIT License] (License: https://github.com/NarendraNathPanda/narendranathpanda.portfolio.github.io/blob/main/License)
